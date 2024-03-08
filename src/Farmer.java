@@ -27,6 +27,7 @@ public class Farmer {
                 harvestFlower(flower);
             }
         }
+
     }
 
     public void addAnimal(Animal animal) {
