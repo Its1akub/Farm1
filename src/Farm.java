@@ -13,6 +13,7 @@ public class Farm {
         if (actualSize<=maxSize){
             this.actualSize = actualSize;
         }
+
     }
 
     public void addAnimal(Animal animal) {
